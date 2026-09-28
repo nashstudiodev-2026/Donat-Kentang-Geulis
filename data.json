@@ -1,0 +1,331 @@
+{
+  "store": {
+    "name": "A3 Donat Bekasi",
+    "tagline": "Premium Donuts",
+    "logo": "https://lh3.googleusercontent.com/d/1eXRJIlN1fKdQsHOvKAPt3ucp_96jWhoM",
+    "address": "Bekasi, Jawa Barat",
+    "hours": "08.00 - 20.00 WIB",
+    "status": "Buka Hari Ini",
+    "instagram": "https://www.instagram.com/a3donatbekasi",
+    "instagram_handle": "@a3donatbekasi",
+    "whatsapp": "628998702029"
+  },
+  "hero_slides": [
+    {
+      "id": "hero_left",
+      "image": "https://lh3.googleusercontent.com/d/1ESmuN4GjlQ5l7msLPnsiq3s2PgjVUnIx"
+    },
+    {
+      "id": "hero_center",
+      "image": "https://lh3.googleusercontent.com/d/1yvvo79Y9rR6qBZQqw7cBHsjzXkS8k_Zr"
+    },
+    {
+      "id": "hero_right",
+      "image": "https://lh3.googleusercontent.com/d/1MC9_bDqkAwzBJ0p4aP8Pw59qD_VW6wrI"
+    }
+  ],
+  "tutorial": [
+    {
+      "step": 1,
+      "title": "Pilih Paket Donat",
+      "description": "Pilih paket donat (Isi 3, 4, 6, atau 12) lalu tentukan kombinasi varian rasa favoritmu."
+    },
+    {
+      "step": 2,
+      "title": "Atur Catatan & Jumlah",
+      "description": "Buka keranjang untuk menyesuaikan jumlah pesanan & alamat pengiriman."
+    },
+    {
+      "step": 3,
+      "title": "Kirim via WhatsApp",
+      "description": "Klik 'Kirim WA', sistem akan membuat nota invoice JPG otomatis untuk dikirim ke admin!"
+    }
+  ],
+  "wa_template": "Halo Kak admin {store_name}! 🍩\n\nSaya ingin memesan donat dengan rincian berikut:\n📄 No. Invoice: {code}\n👤 Nama Pemesan: {name}\n🛵 Metode: {order_type}\n{address_line}💰 Total Bayar: Rp {total}\n\n📎 Catatan: File foto Invoice JPG sudah otomatis terunduh di perangkat saya dan saya lampirkan pada pesan ini ya kak.\n\nMohon segera dikonfirmasi & diproses. Terima kasih! ✨",
+  "categories": [
+    {
+      "id": "all",
+      "name": "Semua Menu",
+      "icon": "🍩"
+    },
+    {
+      "id": "paket_donat",
+      "name": "Paket Donat",
+      "icon": "📦"
+    },
+    {
+      "id": "varian_rasa",
+      "name": "Varian Rasa",
+      "icon": "🍓"
+    }
+  ],
+  "flavors": [
+    {
+      "id": "f_dark_choco",
+      "name": "Dark Choco",
+      "description": "Cokelat hitam pekat lumer dengan rasa yang kaya.",
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_choco_oreo",
+      "name": "Choco Oreo",
+      "description": "Cokelat lezat dengan taburan biskuit Oreo renyah.",
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_chocomaltine",
+      "name": "Chocomaltine",
+      "description": "Olesan selai chocomaltine dengan sensasi krispi.",
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_cokelat_meses",
+      "name": "Cokelat Meses",
+      "description": "Cokelat meses melimpah rasa klasik nostalgia.",
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_cokelat_kacang",
+      "name": "Cokelat Kacang",
+      "description": "Cokelat tebal bertabur cincangan kacang sangrai.",
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_vanila",
+      "name": "Vanila",
+      "description": "Glaze vanila lembut dengan aroma manis creamy.",
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_keju",
+      "name": "Keju",
+      "description": "Keju parut gurih melimpah di atas krim lembut.",
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_mangga",
+      "name": "Mangga",
+      "description": "Selai mangga tropis dengan rasa manis segar.",
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_taro",
+      "name": "Taro",
+      "description": "Krim taro ungu khas dengan rasa gurih manis unik.",
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_gula_halus",
+      "name": "Gula Halus",
+      "description": "Taburan gula halus klasik yang empuk dan manis lembut.",
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_tiramisu",
+      "name": "Tiramisu",
+      "description": "Krim tiramisu kaya rasa kopi khas Italia.",
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_green_tea",
+      "name": "Green Tea",
+      "description": "Glaze matcha green tea harum dan menyegarkan.",
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_cappucino",
+      "name": "Cappucino",
+      "description": "Aroma rasa kopi cappucino yang mantap dan creamy.",
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_strawbery",
+      "name": "Strawbery",
+      "description": "Selai strawberry manis segar berlimpah dan lumer.",
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_red_velvet",
+      "name": "Red Velvet",
+      "description": "Glaze red velvet bertabur remahan krispi lezat.",
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    }
+  ],
+  "products": [
+    {
+      "id": "p3",
+      "category": "paket_donat",
+      "name": "Donat Paket Isi 3",
+      "capacity": 3,
+      "description": "Bebas pilih 3 varian rasa favoritmu. Pas untuk camilan santai!",
+      "price": 10000,
+      "badge": "HEMAT",
+      "image": "https://lh3.googleusercontent.com/d/1ESmuN4GjlQ5l7msLPnsiq3s2PgjVUnIx"
+    },
+    {
+      "id": "p4",
+      "category": "paket_donat",
+      "name": "Donat Paket Isi 4",
+      "capacity": 4,
+      "description": "Bebas pilih 4 varian rasa favoritmu. Nikmat untuk berdua!",
+      "price": 12000,
+      "badge": "POPULER",
+      "image": "https://lh3.googleusercontent.com/d/1ESmuN4GjlQ5l7msLPnsiq3s2PgjVUnIx"
+    },
+    {
+      "id": "p6",
+      "category": "paket_donat",
+      "name": "Donat Paket Isi 6",
+      "capacity": 6,
+      "description": "Bebas pilih 6 varian rasa favoritmu. Porsi pas kumpul rame-rame!",
+      "price": 18000,
+      "badge": "FAVORIT",
+      "image": "https://lh3.googleusercontent.com/d/1ESmuN4GjlQ5l7msLPnsiq3s2PgjVUnIx"
+    },
+    {
+      "id": "p12",
+      "category": "paket_donat",
+      "name": "Donat Paket Isi 12",
+      "capacity": 12,
+      "description": "Bebas pilih 12 varian rasa favoritmu. Paling puas dan hemat!",
+      "price": 33000,
+      "badge": "BEST VALUE",
+      "image": "https://lh3.googleusercontent.com/d/1ESmuN4GjlQ5l7msLPnsiq3s2PgjVUnIx"
+    },
+    {
+      "id": "f_dark_choco",
+      "category": "varian_rasa",
+      "name": "Dark Choco",
+      "description": "Cokelat hitam pekat lumer dengan rasa yang kaya.",
+      "price": 3500,
+      "badge": null,
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_choco_oreo",
+      "category": "varian_rasa",
+      "name": "Choco Oreo",
+      "description": "Cokelat lezat dengan taburan biskuit Oreo renyah.",
+      "price": 3500,
+      "badge": null,
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_chocomaltine",
+      "category": "varian_rasa",
+      "name": "Chocomaltine",
+      "description": "Olesan selai chocomaltine dengan sensasi krispi.",
+      "price": 3500,
+      "badge": null,
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_cokelat_meses",
+      "category": "varian_rasa",
+      "name": "Cokelat Meses",
+      "description": "Cokelat meses melimpah rasa klasik nostalgia.",
+      "price": 3500,
+      "badge": "KLASIK",
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_cokelat_kacang",
+      "category": "varian_rasa",
+      "name": "Cokelat Kacang",
+      "description": "Cokelat tebal bertabur cincangan kacang sangrai.",
+      "price": 3500,
+      "badge": null,
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_vanila",
+      "category": "varian_rasa",
+      "name": "Vanila",
+      "description": "Glaze vanila lembut dengan aroma manis creamy.",
+      "price": 3500,
+      "badge": null,
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_keju",
+      "category": "varian_rasa",
+      "name": "Keju",
+      "description": "Keju parut gurih melimpah di atas krim lembut.",
+      "price": 3500,
+      "badge": null,
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_mangga",
+      "category": "varian_rasa",
+      "name": "Mangga",
+      "description": "Selai mangga tropis dengan rasa manis segar.",
+      "price": 3500,
+      "badge": null,
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_taro",
+      "category": "varian_rasa",
+      "name": "Taro",
+      "description": "Krim taro ungu khas dengan rasa gurih manis unik.",
+      "price": 3500,
+      "badge": null,
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_gula_halus",
+      "category": "varian_rasa",
+      "name": "Gula Halus",
+      "description": "Taburan gula halus klasik yang empuk dan manis lembut.",
+      "price": 3500,
+      "badge": null,
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_tiramisu",
+      "category": "varian_rasa",
+      "name": "Tiramisu",
+      "description": "Krim tiramisu kaya rasa kopi khas Italia.",
+      "price": 3500,
+      "badge": "FAVORIT",
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_green_tea",
+      "category": "varian_rasa",
+      "name": "Green Tea",
+      "description": "Glaze matcha green tea harum dan menyegarkan.",
+      "price": 3500,
+      "badge": null,
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_cappucino",
+      "category": "varian_rasa",
+      "name": "Cappucino",
+      "description": "Aroma rasa kopi cappucino yang mantap dan creamy.",
+      "price": 3500,
+      "badge": null,
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_strawbery",
+      "category": "varian_rasa",
+      "name": "Strawbery",
+      "description": "Selai strawberry manis segar berlimpah dan lumer.",
+      "price": 3500,
+      "badge": "BEST SELLER",
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    },
+    {
+      "id": "f_red_velvet",
+      "category": "varian_rasa",
+      "name": "Red Velvet",
+      "description": "Glaze red velvet bertabur remahan krispi lezat.",
+      "price": 3500,
+      "badge": "BARU",
+      "image": "https://lh3.googleusercontent.com/d/15tjkdjLrn8MucGykZ71jBi6cl4Sr_mBS"
+    }
+  ]
+}
