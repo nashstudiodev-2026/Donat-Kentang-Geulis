@@ -1,14 +1,14 @@
 {
   "store": {
-    "name": "A3 Donat Bekasi",
+    "name": "Donat Kentang Geulis",
     "tagline": "Premium Donuts",
-    "logo": "https://lh3.googleusercontent.com/d/1eXRJIlN1fKdQsHOvKAPt3ucp_96jWhoM",
-    "address": "Bekasi, Jawa Barat",
+    "logo": "https://lh3.googleusercontent.com/d/1lyAUritS1BQUWRfq-7_TmaU5qmPMsdGj",
+    "address": "Jakarta Selatan, DIY",
     "hours": "08.00 - 20.00 WIB",
     "status": "Buka Hari Ini",
-    "instagram": "https://www.instagram.com/a3donatbekasi",
-    "instagram_handle": "@a3donatbekasi",
-    "whatsapp": "628998702029"
+    "instagram": "https://www.instagram.com/donatkentanggeulis?stkn=MTg5bWRkbWpjZW1ybQ==",
+    "instagram_handle": "@donatkentanggeulis",
+    "whatsapp": "6283854164515"
   },
   "hero_slides": [
     {
@@ -41,7 +41,7 @@
       "description": "Klik 'Kirim WA', sistem akan membuat nota invoice JPG otomatis untuk dikirim ke admin!"
     }
   ],
-  "wa_template": "Halo Kak admin {store_name}! 🍩\n\nSaya ingin memesan donat dengan rincian berikut:\n📄 No. Invoice: {code}\n👤 Nama Pemesan: {name}\n🛵 Metode: {order_type}\n{address_line}💰 Total Bayar: Rp {total}\n\n📎 Catatan: File foto Invoice JPG sudah otomatis terunduh di perangkat saya dan saya lampirkan pada pesan ini ya kak.\n\nMohon segera dikonfirmasi & diproses. Terima kasih! ✨",
+  "wa_template": "Halo Kak admin {store_name}! 🍩\n\nSaya ingin memesan donat kentang dengan rincian berikut:\n📄 No. Invoice: {code}\n👤 Nama Pemesan: {name}\n🛵 Metode: {order_type}\n{address_line}💰 Total Bayar: Rp {total}\n\n📎 Catatan: File foto Invoice JPG sudah otomatis terunduh di perangkat saya dan saya lampirkan pada pesan ini ya kak.\n\nMohon segera dikonfirmasi & diproses. Terima kasih! ✨",
   "categories": [
     {
       "id": "all",
